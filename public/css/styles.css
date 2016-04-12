@@ -1,70 +1,53 @@
-//setting variables for text colors and background colors
-
-
-
-
 body {
   background-color: floralwhite;
-  font-family: 'Cedarville Cursive', cursive;
-}
+  font-family: 'Cedarville Cursive', cursive; }
 
 #header {
   display: block;
   overflow: hidden;
-  position: relative; z-index: 4;
+  position: relative;
+  z-index: 4;
   width: 100%;
   background-color: #fff;
   text-align: center;
-  color: #E75D0F;
-}
+  color: #E75D0F; }
 
 #header-inner {
-  width: 100%;
-}
+  width: 100%; }
 
 #header p a:link, #header p a:visited {
   color: #E75D0F;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 #topper {
   height: 152px;
-  letter-spacing: 0.5em;
-}
+  letter-spacing: 0.5em; }
 
 p.title {
-  margin-top: 40px;
-}
+  margin-top: 40px; }
 
 p.address {
   margin-top: 15px;
-  margin-bottom: 15px;
-}
+  margin-bottom: 15px; }
 
-.unit6{
+.unit6 {
   display: flex;
   margin-top: 15px;
-  justify-content: center;
-}
+  justify-content: center; }
 
 #nav {
   height: 64px;
-  line-height: 64px;
-}
+  line-height: 64px; }
 
 #nav li {
   display: block;
   width: 128px;
-  float: left;
-}
+  float: left; }
 
 #nav li a:link, #nav li a:visited {
   color: #E75D0F;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
-#nav li a:hover{
+#nav li a:hover {
   color: #E75D0F;
-  border-bottom: 1px solid #E75D0F;
-}
-
+  border-bottom: 1px solid #E75D0F; }
